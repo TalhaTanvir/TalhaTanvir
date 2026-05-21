@@ -51,6 +51,7 @@ I focus on delivering production-ready solutions with clean architecture, reusab
   🚀 SEO-optimized, performance-focused web applications
   
 🏗️ **Development Approach**
+
 I follow a structured and scalable approach to development:
  - Component-based architecture for reusability
  - Clean and maintainable code structure
