@@ -41,7 +41,7 @@ I focus on delivering production-ready solutions with clean architecture, reusab
   - Vercel, Netlify, Render (deployment platforms)
   - Environment configuration & deployment pipelines
 
-🚀 **What I Build**
+##🚀 **What I Build**
   🔭 Full-stack web applications using Next.js + Node.js + MongoDB
   🎨 Modern UI/UX interfaces with Tailwind CSS, ShadCN UI, and MUI
   ⚡ Highly interactive frontend experiences using Framer Motion animations
@@ -50,7 +50,7 @@ I focus on delivering production-ready solutions with clean architecture, reusab
   📦 SaaS-style applications, dashboards, admin panels, and business websites
   🚀 SEO-optimized, performance-focused web applications
   
-🏗️ **Development Approach**
+##🏗️ **Development Approach**
 
 I follow a structured and scalable approach to development:
  - Component-based architecture for reusability
